@@ -1,7 +1,24 @@
+.cabecalho {
+  width: auto;
+  display: flex;
+flex-direction: row;
+}
+
+.link{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+
+}
+
+
+
+
 .bike{
-    width:20% ;
+    width: 400px; ;
+    height: 400px;
 }
 
 .bike2{
-    width:20%;
+    width:50%;
 }
